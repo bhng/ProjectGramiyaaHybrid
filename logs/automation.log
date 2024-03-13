@@ -1,0 +1,18 @@
+11:22:32.839 [main] INFO  testCases.Tc_001_NewRegistration - *Launched the webpage*
+11:22:32.991 [main] INFO  testCases.Tc_001_NewRegistration - *Maximized the webpage*
+11:22:33.015 [main] INFO  testCases.Tc_001_NewRegistration - **** Implicit Wait applied**
+11:22:36.958 [main] INFO  testCases.Tc_001_NewRegistration - *Entered firstname*
+11:22:37.057 [main] INFO  testCases.Tc_001_NewRegistration - *Entered lastname*
+11:22:37.180 [main] INFO  testCases.Tc_001_NewRegistration - *Entered Email*
+11:22:37.266 [main] INFO  testCases.Tc_001_NewRegistration - *Entered password*
+11:22:37.330 [main] INFO  testCases.Tc_001_NewRegistration - *Clicked on Submit*
+11:22:37.863 [main] INFO  testCases.Tc_001_NewRegistration - *Webpage Closed*
+11:22:46.804 [main] INFO  testCases.Tc_001_NewRegistration - *Launched the webpage*
+11:22:47.038 [main] INFO  testCases.Tc_001_NewRegistration - *Maximized the webpage*
+11:22:47.048 [main] INFO  testCases.Tc_001_NewRegistration - **** Implicit Wait applied**
+11:22:50.852 [main] INFO  testCases.Tc_001_NewRegistration - *Entered firstname*
+11:22:50.959 [main] INFO  testCases.Tc_001_NewRegistration - *Entered lastname*
+11:22:51.097 [main] INFO  testCases.Tc_001_NewRegistration - *Entered Email*
+11:22:51.195 [main] INFO  testCases.Tc_001_NewRegistration - *Entered password*
+11:22:51.274 [main] INFO  testCases.Tc_001_NewRegistration - *Clicked on Submit*
+11:22:51.913 [main] INFO  testCases.Tc_001_NewRegistration - *Webpage Closed*
